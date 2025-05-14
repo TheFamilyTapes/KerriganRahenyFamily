@@ -5,6 +5,12 @@
   <link>https://thefamilytapes.github.io/the-kerrigan-family/feed.xml</link>
   <description>Stories and voices from the Kerrigan family, recorded and shared for future generations.</description>
   <language>en-ie</language>
+<itunes:image href="https://raw.githubusercontent.com/thefamilytapes/kerriganrahenyfamily/main/KerriganFamily.png"/>
+<image>
+  <url>https://raw.githubusercontent.com/thefamilytapes/kerriganrahenyfamily/main/KerriganFamily.png</url>
+  <title>The Kerrigan Family Tapes</title>
+  <link>https://thefamilytapes.github.io/kerriganrahenyfamily/feed.xml</link>
+</image>
 
   <item>
     <title>Tape 001 - Aunt Mary</title>

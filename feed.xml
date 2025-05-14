@@ -7,7 +7,7 @@
   <language>en-ie</language>
 
   <item>
-    <title>Tape 001 Aunt Mary</title>
+    <title>Tape 001 - Aunt Mary</title>
     <description>A test audio description.</description>
     <enclosure url="https://archive.org/download/test-audio_202505/TEST%20AUDIO.m4a" length="12345678" type="audio/mp4"/>
     <guid>tape001-aunt-mary</guid>
